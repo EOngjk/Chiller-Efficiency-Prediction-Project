@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import time
-import seaborn as sns
 import statsmodels.api as sm
 import warnings
 import pickle
