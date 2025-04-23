@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+time
+warnings
+pickle
+plotly
+seaborn
+matplotlib
+datetime
+requests
+fastparquet
