@@ -5,6 +5,7 @@ import time
 import warnings
 import pickle
 import plotly.graph_objs as go
+import seaborn as sns
 from datetime import date, datetime, timedelta, time
 warnings.filterwarnings('ignore')
 color_pal = sns.color_palette()
