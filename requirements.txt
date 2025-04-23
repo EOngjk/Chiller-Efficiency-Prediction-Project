@@ -10,3 +10,4 @@ matplotlib
 datetime
 requests
 fastparquet
+catboost
